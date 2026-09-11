@@ -42,7 +42,15 @@ while True:
         else:
             print("Contacto no existe")
     elif opcion_elegida == 3:
-        pass
+        nombre = input("Ingrese el nombre del contacto a eliminar: ")
+        if nombre in nombres:
+            indice = nombres.index(nombre.lower())
+            nombres.pop(indice)
+            telefonos.pop(indice)
+            emails.pop(indice)
+            direcciones.pop(indice)
+            print(f"Contacto {nombre} eliminado exitosamente ✅")
+            
     elif opcion_elegida == 4:
         for nombre,telefono,email,direccion in zip(nombres,telefonos,emails,direcciones):
             print(f"Nombre: {nombre}")
