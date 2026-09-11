@@ -1,1 +1,4 @@
-print("Hola Mundo")
+nombre = []
+telefono = []
+email = []
+direccion = []
