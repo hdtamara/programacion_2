@@ -3,6 +3,8 @@ telefonos = []
 emails = []
 direcciones = []
 
+contactos= {}
+
 while True:
     menu = """
     
@@ -22,42 +24,32 @@ while True:
         nombre = nombre.lower()
         telefono = input("Ingrese el telefono: ")
         email = input("Ingrese su email: ")
-        direccion = input("Ingrese su dirección: ")    
-        nombres.append(nombre)
-        telefonos.append(telefono)
-        emails.append(email)
-        direcciones.append(direccion)
+        direccion = input("Ingrese su dirección: ")
+        contactos[nombre] = {
+            "telefono":telefono,
+            "email":email,
+            "direccion":direccion
+        }    
         print(f"Contacto {nombre} gurdado exitosamente ✅") 
     elif opcion_elegida == 2:
-        nombre = input("Ingrese el nombre a buscar: ")
-        if nombre in nombres:
-            indice = nombres.index(nombre.lower())
+        nombre = input("Ingrese el nombre a buscar: ").lower()
+        if nombre in contactos:
             print("="*10)
-            print(f"Nombre: {nombres[indice]}")
-            print(f"Telefono: {telefonos[indice]}")
-            print(f"Email: {emails[indice]}")
-            print(f"Dirección: {direcciones[indice]}")
+            print(contactos[nombre])
             print("="*10)
-            
         else:
             print("Contacto no existe")
     elif opcion_elegida == 3:
-        nombre = input("Ingrese el nombre del contacto a eliminar: ")
-        if nombre in nombres:
-            indice = nombres.index(nombre.lower())
-            nombres.pop(indice)
-            telefonos.pop(indice)
-            emails.pop(indice)
-            direcciones.pop(indice)
+        nombre = input("Ingrese el nombre del contacto a eliminar: ").lower()
+        if nombre in contactos:
+            del contactos[nombre]
             print(f"Contacto {nombre} eliminado exitosamente ✅")
+        else:
+            print(f"Contacto  {nombre} no registrado ❌")
             
     elif opcion_elegida == 4:
-        for nombre,telefono,email,direccion in zip(nombres,telefonos,emails,direcciones):
-            print(f"Nombre: {nombre}")
-            print(f"Telefono: {telefono}")
-            print(f"Email: {email}")
-            print(f"Dirección: {direccion}")
-            print("="*10)
+        for i,key in enumerate(contactos):
+            print(i+1,"-",key)
     elif opcion_elegida == 5:
         print("Hasta la vista Baby")
         break
