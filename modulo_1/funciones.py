@@ -47,4 +47,10 @@ numeros_3 = [5,8,9,8,9]
 print(sumar_listas(numeros_3))
 
 
+def conversor(temperatura_kelvin:float)->float:
+    # (0 K − 273.15) × 9/5 + 32 
+    resultado = (temperatura_kelvin - 273.15) * 9/5 + 32
+    return round(resultado,2)
 
+print(conversor(15))
+print(conversor(20))
