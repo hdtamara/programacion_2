@@ -21,7 +21,11 @@ def validar_stats(velocidad, tiro, pase, regate, defensa, fisico):
     Debe devolver False si al menos uno está fuera de ese rango.
     """
     # TODO: escribe tu código aquí
-    pass
+    stats = [velocidad,tiro,pase,regate,defensa,fisico]
+    for stat in stats:
+        if stat <0 or stat > 99:
+            return False
+    return True
 
 
 def calcular_overall(velocidad, tiro, pase, regate, defensa, fisico):
@@ -46,7 +50,16 @@ def clasificar_jugador(overall):
         overall >= 90          -> "Ícono"
     """
     # TODO: escribe tu código aquí
-    pass
+    if overall < 60:
+        return "Bronce"
+    elif overall < 70:
+        return "Plata"
+    elif overall < 80:
+        return "Oro"   
+    elif overall < 90:
+        return "Leyenda"
+    else:
+        return "Ícono" 
 
 
 def generar_tarjeta(nombre, overall, categoria):
@@ -62,7 +75,13 @@ def generar_tarjeta(nombre, overall, categoria):
     (Puedes usar el formato que prefieras, pero debe incluir esos 3 datos)
     """
     # TODO: escribe tu código aquí
-    pass
+    tarjeta = f"""
+    ⭐ TARJETA DE JUGADOR ⭐
+        Nombre: {nombre}
+        Overall: {overall}
+        Categoría: {categoria}
+        """
+    return tarjeta
 
 
 # ============================================================
