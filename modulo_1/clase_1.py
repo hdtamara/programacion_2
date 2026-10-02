@@ -28,27 +28,15 @@ while True:
         telefono = input("Ingrese el telefono: ")
         email = input("Ingrese su email: ")
         direccion = input("Ingrese su dirección: ")
-        contactos[nombre] = {
-            "telefono":telefono,
-            "email":email,
-            "direccion":direccion
-        }    
-        print(f"Contacto {nombre} gurdado exitosamente ✅") 
+        modulos.guardar_contacto(contactos,nombre,telefono,email,direccion)
     elif opcion_elegida == 2:
         nombre = input("Ingrese el nombre a buscar: ").lower()
         buscar_contacto(contactos,nombre)
-
     elif opcion_elegida == 3:
         nombre = input("Ingrese el nombre del contacto a eliminar: ").lower()
-        if modulos.validar_contactos(contactos,nombre):
-            del contactos[nombre]
-            print(f"Contacto {nombre} eliminado exitosamente ✅")
-        else:
-            print(f"Contacto  {nombre} no registrado ❌")
-            
+        modulos.eliminar_contacto(contactos,nombre)
     elif opcion_elegida == 4:
-        for i,key in enumerate(contactos):
-            print(i+1,"-",key)
+        modulos.mostrar_contactos(contactos)
     elif opcion_elegida == 5:
         print("Hasta la vista Baby")
         break
