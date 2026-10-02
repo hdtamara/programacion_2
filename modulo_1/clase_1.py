@@ -1,3 +1,6 @@
+import modulos
+from modulos import buscar_contacto
+
 nombres = []
 telefonos = []
 emails = []
@@ -33,15 +36,11 @@ while True:
         print(f"Contacto {nombre} gurdado exitosamente ✅") 
     elif opcion_elegida == 2:
         nombre = input("Ingrese el nombre a buscar: ").lower()
-        if nombre in contactos:
-            print("="*10)
-            print(contactos[nombre])
-            print("="*10)
-        else:
-            print("Contacto no existe")
+        buscar_contacto(contactos,nombre)
+
     elif opcion_elegida == 3:
         nombre = input("Ingrese el nombre del contacto a eliminar: ").lower()
-        if nombre in contactos:
+        if modulos.validar_contactos(contactos,nombre):
             del contactos[nombre]
             print(f"Contacto {nombre} eliminado exitosamente ✅")
         else:
