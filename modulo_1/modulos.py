@@ -35,3 +35,25 @@ def guardar_contacto(contactos:dict,nombre,telefono,email,direccion):
     "direccion":direccion
     }    
     print(f"Contacto {nombre} gurdado exitosamente ✅")
+    
+
+precios = {
+    "yuca":1500,
+    "arroz":2500
+}
+
+pedidos = {
+"arroz":5,
+"yuca":5
+}
+
+total = 0
+contador = 0
+for key,value in pedidos.items():
+    subtotal = precios[key]*value
+    total += subtotal
+    contador += value
+print(total)
+print(contador)
+    
+    
