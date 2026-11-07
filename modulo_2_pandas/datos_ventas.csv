@@ -1,0 +1,221 @@
+id_venta,fecha,vendedor,ciudad,producto,categoria,precio_unitario,cantidad,total
+V0001,2024-01-01,Carlos Mejia,Bogota,Ultrabook,Computadores,4600000,1.0,4600000
+V0002,2024-01-01,Laura Pineda,Barranquilla,Disco Externo 2TB,Almacenamiento,285000,5.0,1425000
+V0003,2024-01-01,Diana Torres,Barranquilla,Webcam HD,Perifericos,145000,2.0,290000
+V0004,2024-01-02,Carlos Mejia,Cartagena,Teclado Mecanico,Perifericos,185000,8.0,1480000
+V0005,2024-01-03,Jorge Salazar,Barranquilla,Monitor Curvo 32,Monitores,1450000,4.0,5800000
+V0006,2024-01-03,Jorge Salazar,Barranquilla,Memoria USB 128GB,Almacenamiento,65000,10.0,650000
+V0007,2024-01-03,Carlos Mejia,Bogota,Ultrabook,Computadores,4600000,5.0,23000000
+V0008,2024-01-05,Ana Restrepo,Bogota,SSD 1TB,Almacenamiento,320000,15.0,4800000
+V0009,2024-01-06,Carlos Mejia,Medellin,Smartphone,Moviles,1950000,3.0,5850000
+V0010,2024-01-06,Ana Restrepo,Bogota,Ultrabook,Computadores,4600000,1.0,4600000
+V0011,2024-01-07,Carlos Mejia,Barranquilla,Mouse Inalambrico,Perifericos,95000,15.0,1425000
+V0012,2024-01-07,Jorge Salazar,Barranquilla,Cargador USB-C,Accesorios,58000,14.0,812000
+V0013,2024-01-08,Miguel Ospino,Cali,SSD 1TB,Almacenamiento,320000,8.0,2560000
+V0014,2024-01-08,Laura Pineda,Medellin,Disco Externo 2TB,Almacenamiento,285000,1.0,285000
+V0015,2024-01-08,Jorge Salazar,Medellin,SSD 1TB,Almacenamiento,320000,9.0,2880000
+V0016,2024-01-10,Miguel Ospino,Medellin,Disco Externo 2TB,Almacenamiento,285000,9.0,2565000
+V0017,2024-01-10,Miguel Ospino,Cali,Mouse Inalambrico,Perifericos,95000,3.0,285000
+V0018,2024-01-11,Carlos Mejia,Barranquilla,PC Escritorio,Computadores,2150000,3.0,6450000
+V0019,2024-01-16,Carlos Mejia,Bogota,Memoria USB 128GB,Almacenamiento,65000,13.0,845000
+V0020,2024-01-16,,Medellin,Teclado Mecanico,Perifericos,185000,2.0,370000
+V0021,2024-01-16,Carlos Mejia,Bogota,Mouse Inalambrico,Perifericos,95000,11.0,1045000
+V0022,2024-01-17,Carlos Mejia,Cali,Monitor,Monitores,650000,3.0,1950000
+V0023,2024-01-17,Ana Restrepo,Bogota,PC Escritorio,Computadores,2150000,1.0,2150000
+V0024,2024-01-18,Laura Pineda,Cali,Cable HDMI,Accesorios,38000,7.0,266000
+V0025,2024-01-18,Diana Torres,Cali,Disco Externo 2TB,Almacenamiento,285000,1.0,285000
+V0026,2024-01-18,Jorge Salazar,Bogota,Webcam HD,Perifericos,145000,15.0,2175000
+V0027,2024-01-20,Diana Torres,Cartagena,Monitor Curvo 32,Monitores,1450000,4.0,5800000
+V0028,2024-01-20,Ana Restrepo,Medellin,Memoria USB 128GB,Almacenamiento,65000,9.0,585000
+V0029,2024-01-21,Diana Torres,Cali,Mouse Inalambrico,Perifericos,95000,3.0,285000
+V0030,2024-01-22,Carlos Mejia,Bogota,Teclado Mecanico,Perifericos,185000,14.0,2590000
+V0031,2024-01-22,Jorge Salazar,Bogota,Teclado Mecanico,Perifericos,185000,12.0,2220000
+V0032,2024-01-22,Ana Restrepo,Medellin,Smartphone,Moviles,1950000,3.0,5850000
+V0033,2024-01-22,Diana Torres,Barranquilla,Ultrabook,Computadores,4600000,1.0,4600000
+V0034,2024-01-22,Laura Pineda,Bogota,Mouse Inalambrico,Perifericos,95000,8.0,760000
+V0035,2024-01-23,Miguel Ospino,Cartagena,Cable HDMI,Accesorios,38000,10.0,380000
+V0036,2024-01-23,Diana Torres,Medellin,Ultrabook,Computadores,4600000,1.0,4600000
+V0037,2024-01-24,Miguel Ospino,Barranquilla,Memoria USB 128GB,Almacenamiento,65000,13.0,845000
+V0038,2024-01-24,Jorge Salazar,Bogota,Memoria USB 128GB,Almacenamiento,65000,1.0,65000
+V0039,2024-01-24,Ana Restrepo,Barranquilla,Tablet,Moviles,1180000,1.0,1180000
+V0040,2024-01-25,Miguel Ospino,Barranquilla,Webcam HD,Perifericos,145000,2.0,290000
+V0041,2024-01-25,Laura Pineda,Cartagena,PC Escritorio,Computadores,2150000,4.0,8600000
+V0042,2024-01-26,Miguel Ospino,Bogota,Disco Externo 2TB,Almacenamiento,285000,13.0,3705000
+V0043,2024-01-26,Diana Torres,Bogota,SSD 1TB,Almacenamiento,320000,4.0,1280000
+V0044,2024-01-26,Carlos Mejia,Medellin,Monitor,Monitores,650000,12.0,7800000
+V0045,2024-01-27,Ana Restrepo,Barranquilla,Ultrabook,Computadores,4600000,5.0,23000000
+V0046,2024-01-29,Laura Pineda,Barranquilla,Cargador USB-C,Accesorios,58000,4.0,232000
+V0047,2024-01-29,Miguel Ospino,Cali,Teclado Mecanico,Perifericos,185000,6.0,1110000
+V0048,2024-01-31,Ana Restrepo,Medellin,Cable HDMI,Accesorios,38000,8.0,304000
+V0049,2024-01-31,Diana Torres,Cartagena,Webcam HD,Perifericos,145000,12.0,1740000
+V0050,2024-01-31,,Medellin,Disco Externo 2TB,Almacenamiento,285000,10.0,2850000
+V0051,2024-02-01,Miguel Ospino,Bogota,Disco Externo 2TB,Almacenamiento,285000,14.0,3990000
+V0052,2024-02-01,,Cali,Smartphone,Moviles,1950000,1.0,1950000
+V0053,2024-02-05,Ana Restrepo,Cartagena,Monitor,Monitores,650000,12.0,7800000
+V0054,2024-02-06,Miguel Ospino,Cali,Teclado Mecanico,Perifericos,185000,10.0,1850000
+V0055,2024-02-06,Diana Torres,Cartagena,Teclado Mecanico,Perifericos,185000,,925000
+V0056,2024-02-07,Laura Pineda,Cali,Laptop,Computadores,2850000,,8550000
+V0057,2024-02-12,Carlos Mejia,Cartagena,Mouse Inalambrico,Perifericos,95000,2.0,190000
+V0058,2024-02-12,Carlos Mejia,Barranquilla,PC Escritorio,Computadores,2150000,4.0,8600000
+V0059,2024-02-13,Diana Torres,Cali,SSD 1TB,Almacenamiento,320000,14.0,4480000
+V0060,2024-02-14,Miguel Ospino,Bogota,Webcam HD,Perifericos,145000,7.0,1015000
+V0061,2024-02-14,Jorge Salazar,Medellin,Cable HDMI,Accesorios,38000,2.0,76000
+V0062,2024-02-15,Diana Torres,Medellin,SSD 1TB,Almacenamiento,320000,10.0,3200000
+V0063,2024-02-18,Laura Pineda,Cartagena,Monitor,Monitores,650000,15.0,9750000
+V0064,2024-02-18,Diana Torres,Cartagena,Cargador USB-C,Accesorios,58000,,812000
+V0065,2024-02-21,Carlos Mejia,Bogota,Monitor Curvo 32,Monitores,1450000,3.0,4350000
+V0066,2024-02-21,Carlos Mejia,Cali,Monitor,Monitores,650000,7.0,4550000
+V0067,2024-02-22,Laura Pineda,Cali,Cable HDMI,Accesorios,38000,8.0,304000
+V0068,2024-02-23,Carlos Mejia,Bogota,Monitor,Monitores,650000,4.0,2600000
+V0069,2024-02-24,Laura Pineda,Barranquilla,Ultrabook,Computadores,4600000,3.0,13800000
+V0070,2024-02-26,Ana Restrepo,Barranquilla,Teclado Mecanico,Perifericos,185000,4.0,740000
+V0071,2024-02-26,Carlos Mejia,Cali,Disco Externo 2TB,Almacenamiento,285000,15.0,4275000
+V0072,2024-02-26,Ana Restrepo,Bogota,Smartphone,Moviles,1950000,2.0,3900000
+V0073,2024-03-01,Miguel Ospino,Cartagena,Teclado Mecanico,Perifericos,185000,13.0,2405000
+V0074,2024-03-05,Diana Torres,Bogota,PC Escritorio,Computadores,2150000,2.0,4300000
+V0075,2024-03-06,Jorge Salazar,Cartagena,Webcam HD,Perifericos,145000,15.0,2175000
+V0076,2024-03-08,Miguel Ospino,Bogota,Teclado Mecanico,Perifericos,185000,2.0,370000
+V0077,2024-03-09,Diana Torres,Cali,Monitor,Monitores,650000,14.0,9100000
+V0078,2024-03-11,Miguel Ospino,Barranquilla,Smartphone,Moviles,1950000,3.0,5850000
+V0079,2024-03-14,Laura Pineda,Medellin,Audifonos Bluetooth,Perifericos,260000,8.0,2080000
+V0080,2024-03-16,Diana Torres,Cali,Webcam HD,Perifericos,145000,9.0,1305000
+V0081,2024-03-17,Carlos Mejia,Cartagena,Cargador USB-C,Accesorios,58000,6.0,348000
+V0082,2024-03-18,Diana Torres,Cali,Monitor Curvo 32,Monitores,1450000,5.0,7250000
+V0083,2024-03-19,Laura Pineda,Barranquilla,PC Escritorio,Computadores,2150000,1.0,2150000
+V0084,2024-03-20,Ana Restrepo,Bogota,Memoria USB 128GB,Almacenamiento,65000,13.0,845000
+V0085,2024-03-21,Laura Pineda,Barranquilla,Webcam HD,Perifericos,145000,5.0,725000
+V0086,2024-03-21,Miguel Ospino,Barranquilla,SSD 1TB,Almacenamiento,320000,5.0,1600000
+V0087,2024-03-22,Miguel Ospino,Medellin,Ultrabook,Computadores,4600000,2.0,9200000
+V0088,2024-03-22,Ana Restrepo,Cali,Tablet,Moviles,1180000,3.0,3540000
+V0089,2024-03-23,Laura Pineda,Cali,Disco Externo 2TB,Almacenamiento,285000,14.0,3990000
+V0090,2024-03-23,Carlos Mejia,Cartagena,Memoria USB 128GB,Almacenamiento,65000,14.0,910000
+V0091,2024-03-24,Ana Restrepo,Cali,Monitor Curvo 32,Monitores,1450000,4.0,5800000
+V0092,2024-03-26,Diana Torres,Cali,Disco Externo 2TB,Almacenamiento,285000,3.0,855000
+V0093,2024-03-27,Diana Torres,Barranquilla,Memoria USB 128GB,Almacenamiento,65000,3.0,195000
+V0094,2024-03-27,Diana Torres,Barranquilla,Monitor Curvo 32,Monitores,1450000,2.0,2900000
+V0095,2024-03-28,Carlos Mejia,Medellin,Cable HDMI,Accesorios,38000,9.0,342000
+V0096,2024-03-29,Ana Restrepo,Cali,Tablet,Moviles,1180000,4.0,4720000
+V0097,2024-03-31,Carlos Mejia,Barranquilla,Smartphone,Moviles,1950000,4.0,7800000
+V0098,2024-03-31,Miguel Ospino,Bogota,Webcam HD,Perifericos,145000,2.0,290000
+V0099,2024-04-02,Diana Torres,Medellin,Webcam HD,Perifericos,145000,9.0,1305000
+V0100,2024-04-03,Miguel Ospino,Barranquilla,PC Escritorio,Computadores,2150000,4.0,8600000
+V0101,2024-04-03,,Bogota,Memoria USB 128GB,Almacenamiento,65000,11.0,715000
+V0102,2024-04-04,Jorge Salazar,Cartagena,Smartphone,Moviles,1950000,1.0,1950000
+V0103,2024-04-04,Miguel Ospino,Medellin,Disco Externo 2TB,Almacenamiento,285000,3.0,855000
+V0104,2024-04-05,Miguel Ospino,Barranquilla,Laptop,Computadores,2850000,5.0,14250000
+V0105,2024-04-07,Miguel Ospino,Cali,Disco Externo 2TB,Almacenamiento,285000,13.0,3705000
+V0106,2024-04-08,Miguel Ospino,Bogota,Disco Externo 2TB,Almacenamiento,285000,1.0,285000
+V0107,2024-04-08,Miguel Ospino,Cali,Disco Externo 2TB,Almacenamiento,285000,7.0,1995000
+V0108,2024-04-08,Ana Restrepo,Bogota,Webcam HD,Perifericos,145000,9.0,1305000
+V0109,2024-04-09,,Medellin,Teclado Mecanico,Perifericos,185000,8.0,1480000
+V0110,2024-04-09,Jorge Salazar,Bogota,SSD 1TB,Almacenamiento,320000,11.0,3520000
+V0111,2024-04-11,Diana Torres,Barranquilla,Tablet,Moviles,1180000,3.0,3540000
+V0112,2024-04-13,Miguel Ospino,Cartagena,Disco Externo 2TB,Almacenamiento,285000,6.0,1710000
+V0113,2024-04-14,Ana Restrepo,Barranquilla,Mouse Inalambrico,Perifericos,95000,13.0,1235000
+V0114,2024-04-15,Diana Torres,Barranquilla,Teclado Mecanico,Perifericos,185000,5.0,925000
+V0115,2024-04-16,Miguel Ospino,Bogota,Mouse Inalambrico,Perifericos,95000,15.0,1425000
+V0116,2024-04-16,Miguel Ospino,Cali,Audifonos Bluetooth,Perifericos,260000,8.0,2080000
+V0117,2024-04-17,Miguel Ospino,Cali,Laptop,Computadores,2850000,5.0,14250000
+V0118,2024-04-17,Diana Torres,Cartagena,PC Escritorio,Computadores,2150000,2.0,4300000
+V0119,2024-04-19,Laura Pineda,Bogota,Smartphone,Moviles,1950000,2.0,3900000
+V0120,2024-04-20,Miguel Ospino,Bogota,Ultrabook,Computadores,4600000,5.0,23000000
+V0121,2024-04-20,Jorge Salazar,Barranquilla,Teclado Mecanico,Perifericos,185000,9.0,1665000
+V0122,2024-04-20,Jorge Salazar,Medellin,Webcam HD,Perifericos,145000,1.0,145000
+V0123,2024-04-21,,Cartagena,Webcam HD,Perifericos,145000,8.0,1160000
+V0124,2024-04-22,Laura Pineda,Cali,Teclado Mecanico,Perifericos,185000,3.0,555000
+V0125,2024-04-23,Carlos Mejia,Medellin,Memoria USB 128GB,Almacenamiento,65000,14.0,910000
+V0126,2024-04-24,Laura Pineda,Bogota,Audifonos Bluetooth,Perifericos,260000,4.0,1040000
+V0127,2024-04-24,Laura Pineda,Cartagena,Ultrabook,Computadores,4600000,5.0,23000000
+V0128,2024-04-24,Miguel Ospino,Bogota,Disco Externo 2TB,Almacenamiento,285000,4.0,1140000
+V0129,2024-04-27,,Barranquilla,Audifonos Bluetooth,Perifericos,260000,10.0,2600000
+V0130,2024-04-27,Miguel Ospino,Bogota,Webcam HD,Perifericos,145000,9.0,1305000
+V0131,2024-04-28,Ana Restrepo,Barranquilla,Audifonos Bluetooth,Perifericos,260000,15.0,3900000
+V0132,2024-04-28,Jorge Salazar,Barranquilla,Mouse Inalambrico,Perifericos,95000,7.0,665000
+V0133,2024-04-29,Ana Restrepo,Barranquilla,Ultrabook,Computadores,4600000,2.0,9200000
+V0134,2024-04-29,Ana Restrepo,Bogota,Mouse Inalambrico,Perifericos,95000,1.0,95000
+V0135,2024-04-30,Miguel Ospino,Medellin,Disco Externo 2TB,Almacenamiento,285000,1.0,285000
+V0136,2024-04-30,Laura Pineda,Bogota,Tablet,Moviles,1180000,5.0,5900000
+V0137,2024-05-02,Diana Torres,Bogota,Audifonos Bluetooth,Perifericos,260000,14.0,3640000
+V0138,2024-05-02,Diana Torres,Cartagena,Laptop,Computadores,2850000,5.0,14250000
+V0139,2024-05-03,Carlos Mejia,Cali,Monitor,Monitores,650000,14.0,9100000
+V0140,2024-05-03,Carlos Mejia,Medellin,Monitor Curvo 32,Monitores,1450000,4.0,5800000
+V0141,2024-05-05,Carlos Mejia,Bogota,Cargador USB-C,Accesorios,58000,2.0,116000
+V0142,2024-05-05,Carlos Mejia,Cartagena,Smartphone,Moviles,1950000,5.0,9750000
+V0143,2024-05-05,Laura Pineda,Barranquilla,Tablet,Moviles,1180000,2.0,2360000
+V0144,2024-05-09,Laura Pineda,Bogota,Monitor Curvo 32,Monitores,1450000,5.0,7250000
+V0145,2024-05-09,Jorge Salazar,Cartagena,Cargador USB-C,Accesorios,58000,7.0,406000
+V0146,2024-05-09,Carlos Mejia,Medellin,Memoria USB 128GB,Almacenamiento,65000,14.0,910000
+V0147,2024-05-10,Carlos Mejia,Cali,Laptop,Computadores,2850000,3.0,8550000
+V0148,2024-05-10,Ana Restrepo,Medellin,Smartphone,Moviles,1950000,2.0,3900000
+V0149,2024-05-10,Miguel Ospino,Medellin,Memoria USB 128GB,Almacenamiento,65000,13.0,845000
+V0150,2024-05-10,,Bogota,Laptop,Computadores,2850000,4.0,11400000
+V0151,2024-05-11,Diana Torres,Barranquilla,Memoria USB 128GB,Almacenamiento,65000,13.0,845000
+V0152,2024-05-11,Ana Restrepo,Bogota,Tablet,Moviles,1180000,4.0,4720000
+V0153,2024-05-11,Jorge Salazar,Barranquilla,Cable HDMI,Accesorios,38000,4.0,152000
+V0154,2024-05-12,Ana Restrepo,Cartagena,Tablet,Moviles,1180000,2.0,2360000
+V0155,2024-05-12,Carlos Mejia,Bogota,Monitor Curvo 32,Monitores,1450000,5.0,7250000
+V0156,2024-05-12,Jorge Salazar,Medellin,Webcam HD,Perifericos,145000,13.0,1885000
+V0157,2024-05-12,Laura Pineda,Cali,PC Escritorio,Computadores,2150000,4.0,8600000
+V0158,2024-05-14,Carlos Mejia,Cali,Mouse Inalambrico,Perifericos,95000,12.0,1140000
+V0159,2024-05-17,Diana Torres,Bogota,Mouse Inalambrico,Perifericos,95000,10.0,950000
+V0160,2024-05-17,Jorge Salazar,Bogota,Disco Externo 2TB,Almacenamiento,285000,10.0,2850000
+V0161,2024-05-18,Jorge Salazar,Cartagena,Cargador USB-C,Accesorios,58000,10.0,580000
+V0162,2024-05-19,Laura Pineda,Medellin,Webcam HD,Perifericos,145000,12.0,1740000
+V0163,2024-05-19,Diana Torres,Cali,Monitor Curvo 32,Monitores,1450000,5.0,7250000
+V0164,2024-05-20,Diana Torres,Cartagena,Monitor Curvo 32,Monitores,1450000,2.0,2900000
+V0165,2024-05-20,Jorge Salazar,Cali,Monitor Curvo 32,Monitores,1450000,1.0,1450000
+V0166,2024-05-20,Carlos Mejia,Barranquilla,Memoria USB 128GB,Almacenamiento,65000,,585000
+V0167,2024-05-20,Ana Restrepo,Medellin,Monitor,Monitores,650000,5.0,3250000
+V0168,2024-05-21,Miguel Ospino,Barranquilla,PC Escritorio,Computadores,2150000,5.0,10750000
+V0169,2024-05-23,Jorge Salazar,Medellin,Monitor,Monitores,650000,15.0,9750000
+V0170,2024-05-23,Carlos Mejia,Cartagena,Laptop,Computadores,2850000,1.0,2850000
+V0171,2024-05-23,Miguel Ospino,Bogota,Ultrabook,Computadores,4600000,4.0,18400000
+V0172,2024-05-24,Diana Torres,Bogota,Ultrabook,Computadores,4600000,1.0,4600000
+V0173,2024-05-24,Miguel Ospino,Barranquilla,Disco Externo 2TB,Almacenamiento,285000,12.0,3420000
+V0174,2024-05-24,Laura Pineda,Cartagena,SSD 1TB,Almacenamiento,320000,6.0,1920000
+V0175,2024-05-25,Carlos Mejia,Barranquilla,SSD 1TB,Almacenamiento,320000,11.0,3520000
+V0176,2024-05-27,Laura Pineda,Barranquilla,Teclado Mecanico,Perifericos,185000,10.0,1850000
+V0177,2024-05-27,Diana Torres,Barranquilla,SSD 1TB,Almacenamiento,320000,4.0,1280000
+V0178,2024-05-27,Jorge Salazar,Barranquilla,PC Escritorio,Computadores,2150000,1.0,2150000
+V0179,2024-05-28,Diana Torres,Bogota,Cable HDMI,Accesorios,38000,1.0,38000
+V0180,2024-05-30,Ana Restrepo,Bogota,Mouse Inalambrico,Perifericos,95000,3.0,285000
+V0181,2024-05-30,Jorge Salazar,Bogota,Cargador USB-C,Accesorios,58000,7.0,406000
+V0182,2024-06-01,Jorge Salazar,Barranquilla,PC Escritorio,Computadores,2150000,4.0,8600000
+V0183,2024-06-01,Carlos Mejia,Barranquilla,Teclado Mecanico,Perifericos,185000,3.0,555000
+V0184,2024-06-01,Jorge Salazar,Bogota,SSD 1TB,Almacenamiento,320000,7.0,2240000
+V0185,2024-06-01,Jorge Salazar,Barranquilla,Teclado Mecanico,Perifericos,185000,,1850000
+V0186,2024-06-02,Diana Torres,Medellin,Teclado Mecanico,Perifericos,185000,4.0,740000
+V0187,2024-06-02,,Barranquilla,PC Escritorio,Computadores,2150000,3.0,6450000
+V0188,2024-06-03,Miguel Ospino,Bogota,Monitor Curvo 32,Monitores,1450000,1.0,1450000
+V0189,2024-06-04,Diana Torres,Bogota,Smartphone,Moviles,1950000,5.0,9750000
+V0190,2024-06-07,Carlos Mejia,Bogota,Tablet,Moviles,1180000,1.0,1180000
+V0191,2024-06-07,Jorge Salazar,Barranquilla,Webcam HD,Perifericos,145000,12.0,1740000
+V0192,2024-06-10,Ana Restrepo,Barranquilla,Webcam HD,Perifericos,145000,5.0,725000
+V0193,2024-06-10,Jorge Salazar,Cartagena,Audifonos Bluetooth,Perifericos,260000,7.0,1820000
+V0194,2024-06-12,Miguel Ospino,Barranquilla,Monitor,Monitores,650000,6.0,3900000
+V0195,2024-06-12,Diana Torres,Bogota,Cargador USB-C,Accesorios,58000,3.0,174000
+V0196,2024-06-14,Carlos Mejia,Bogota,Ultrabook,Computadores,4600000,4.0,18400000
+V0197,2024-06-14,Jorge Salazar,Bogota,Monitor,Monitores,650000,4.0,2600000
+V0198,2024-06-14,Carlos Mejia,Bogota,Ultrabook,Computadores,4600000,1.0,4600000
+V0199,2024-06-14,Diana Torres,Cali,Monitor,Monitores,650000,12.0,7800000
+V0200,2024-06-16,Laura Pineda,Cali,Cargador USB-C,Accesorios,58000,15.0,870000
+V0201,2024-06-16,Laura Pineda,Barranquilla,Monitor,Monitores,650000,11.0,7150000
+V0202,2024-06-16,Laura Pineda,Bogota,Cable HDMI,Accesorios,38000,14.0,532000
+V0203,2024-06-17,Laura Pineda,Barranquilla,Teclado Mecanico,Perifericos,185000,,2405000
+V0204,2024-06-17,Miguel Ospino,Bogota,SSD 1TB,Almacenamiento,320000,8.0,2560000
+V0205,2024-06-17,Ana Restrepo,Medellin,Teclado Mecanico,Perifericos,185000,12.0,2220000
+V0206,2024-06-19,Laura Pineda,Barranquilla,Tablet,Moviles,1180000,1.0,1180000
+V0207,2024-06-19,Jorge Salazar,Bogota,Disco Externo 2TB,Almacenamiento,285000,7.0,1995000
+V0208,2024-06-20,Laura Pineda,Cartagena,Cargador USB-C,Accesorios,58000,9.0,522000
+V0209,2024-06-20,Miguel Ospino,Barranquilla,Tablet,Moviles,1180000,1.0,1180000
+V0210,2024-06-21,Carlos Mejia,Bogota,Disco Externo 2TB,Almacenamiento,285000,13.0,3705000
+V0211,2024-06-21,Miguel Ospino,Cali,Tablet,Moviles,1180000,1.0,1180000
+V0212,2024-06-22,Diana Torres,Barranquilla,SSD 1TB,Almacenamiento,320000,10.0,3200000
+V0213,2024-06-22,Laura Pineda,Barranquilla,Disco Externo 2TB,Almacenamiento,285000,4.0,1140000
+V0214,2024-06-23,Diana Torres,Barranquilla,Teclado Mecanico,Perifericos,185000,,2405000
+V0215,2024-06-23,Ana Restrepo,Cartagena,SSD 1TB,Almacenamiento,320000,9.0,2880000
+V0216,2024-06-25,Carlos Mejia,Barranquilla,Tablet,Moviles,1180000,1.0,1180000
+V0217,2024-06-26,Laura Pineda,Barranquilla,Ultrabook,Computadores,4600000,3.0,13800000
+V0218,2024-06-28,Jorge Salazar,Barranquilla,Ultrabook,Computadores,4600000,5.0,23000000
+V0219,2024-06-28,Carlos Mejia,Barranquilla,Teclado Mecanico,Perifericos,185000,2.0,370000
+V0220,2024-06-28,Diana Torres,Medellin,Cable HDMI,Accesorios,38000,5.0,190000
